@@ -1,1 +1,238 @@
-<!-- ============================= --> <!-- HEADER SECTION --> <!-- ============================= --> <h1 align="center">Hi 👋, I'm Keval Radadiya</h1> <h3 align="center"> Frontend Developer • Python Developer • Tech Enthusiast </h3> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+India;React+%26+JavaScript+Developer;Python+%26+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG" /> </a> </p> <!-- ============================= --> <!-- PROFILE BADGES --> <!-- ============================= --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=student-keval2627&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" /> <img src="https://badges.pufler.dev/repos/student-keval2627?style=for-the-badge&color=70a5fd" alt="Repositories" /> <img src="https://img.shields.io/github/followers/student-keval2627?label=Followers&style=for-the-badge&logo=github&color=70a5fd" alt="GitHub Followers" /> </p> <!-- ============================= --> <!-- ABOUT ME --> <!-- ============================= --> ## 👨‍💻 About Me - 💻 I'm passionate about **Frontend Development and Web Technologies** - ⚛️ I enjoy building applications using **React and JavaScript** - 🐍 I also work with **Python and Flask** - 🗄️ Interested in **Databases, Backend Development and APIs** - 🚀 I enjoy turning ideas into real-world projects - 🌱 Currently improving my **Full-Stack Development skills** - 📚 Always exploring new technologies and better development practices - 🤝 Open to collaborating on interesting open-source projects - ⚡ My goal is to continuously improve as a developer <!-- ============================= --> <!-- TECH STACK --> <!-- ============================= --> ## 🛠️ Languages & Tools ### 🌐 Frontend Development <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" alt="Frontend Technologies" /> </p> ### ⚙️ Backend & Programming <p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,nodejs,c,cpp,java,php" alt="Programming Languages" /> </p> ### 🗄️ Databases <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases" /> </p> ### 🔧 Development Tools <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools" /> </p> <!-- ============================= --> <!-- GITHUB ANALYTICS --> <!-- ============================= --> ## 📊 GitHub Analytics <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=student-keval2627&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Keval's GitHub Stats" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-keval2627&layout=compact&theme=tokyonight&hide_border=true" alt="Keval's Top Languages" /> </p> > The GitHub Stats card includes information such as **stars, commits, pull requests, issues and contributions** from your public GitHub activity. <!-- ============================= --> <!-- CONTRIBUTION STREAK --> <!-- ============================= --> ## 🔥 Contribution Streak <p align="center"> <img src="https://streak-stats.demolab.com?user=student-keval2627&theme=tokyonight&hide_border=true" alt="Keval's GitHub Streak" /> </p> <!-- ============================= --> <!-- COMMIT BADGES --> <!-- ============================= --> ## 💻 Commit Activity <p align="center"> <img src="https://badges.pufler.dev/commits/yearly/student-keval2627?style=for-the-badge" alt="Yearly Commits" /> <img src="https://badges.pufler.dev/commits/monthly/student-keval2627?style=for-the-badge" alt="Monthly Commits" /> </p> <!-- ============================= --> <!-- CONTRIBUTION GRAPH --> <!-- ============================= --> ## 📈 Contribution Activity Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=student-keval2627&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Keval's Contribution Graph" /> </p> <!-- ============================= --> <!-- FEATURED PROJECTS --> <!-- ============================= --> ## 🚀 Featured Projects <p align="center"> <b>Projects will be featured here as new repositories are published.</b> </p> <!-- IMPORTANT: When you upload a real project repository, replace YOUR-REPOSITORY-NAME below with its exact GitHub repo name. Example: <p align="center"> <a href="https://github.com/student-keval2627/YOUR-REPOSITORY-NAME"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=student-keval2627&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" alt="Featured Project" /> </a> </p> DO NOT uncomment this until the repository exists, otherwise the card will show an error. --> <!-- ============================= --> <!-- CONNECT WITH ME --> <!-- ============================= --> ## 🤝 Connect With Me <p align="left"> <a href="https://github.com/student-keval2627" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Student--Keval2627-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> <!-- ============================= --> <!-- PROFILE SUMMARY --> <!-- ============================= --> ## 📌 Developer Focus ```text Frontend Development ██████████████████░░ React & JavaScript █████████████████░░░ Python & Flask ████████████████░░░░ Database Development ██████████████░░░░░░ Backend Development █████████████░░░░░░░ ye aabi bahut bach kana he profenal nahi lag rahahe es me improve this look profenal nad beatiful
+<!-- ========================================================= -->
+<!--                  KEVAL RADADIYA PROFILE                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# Hi, I'm Keval Radadiya 👋
+
+### Frontend Developer • Python Developer • AI/ML Learner
+
+<p>
+I build modern web applications, experiment with AI-powered projects,<br/>
+and continuously improve my full-stack development skills.
+</p>
+
+<br/>
+
+<a href="https://github.com/Student-Keval2627">
+  <img src="https://img.shields.io/badge/GitHub-Student--Keval2627-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Student-Keval2627?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-4-238636?style=for-the-badge&logo=github" />
+</a>
+
+<img src="https://img.shields.io/github/followers/Student-Keval2627?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+
+<img src="https://img.shields.io/github/stars/Student-Keval2627?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=d29922" />
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Student-Keval2627&label=PROFILE+VIEWS&color=1f6feb&style=flat-square"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer from India focused on building practical and modern software projects.
+
+- 🌐 Working with **Frontend & Full-Stack Web Development**
+- ⚛️ Building interfaces using **React and JavaScript**
+- 🐍 Developing backend applications with **Python and Flask**
+- 🗄️ Working with **MongoDB, MySQL, PostgreSQL and SQLite**
+- 🤖 Learning **Artificial Intelligence and Machine Learning**
+- 🚀 Building real-world projects to strengthen my development skills
+- 📚 Continuously learning better development practices and technologies
+- 🤝 Interested in collaboration and open-source development
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
+</p>
+
+### Backend & Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,c,cpp,java,php&theme=dark" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Student-Keval2627&theme=github_dark"
+  alt="GitHub Profile Summary"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Student-Keval2627&theme=github_dark"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Student-Keval2627&theme=github_dark"
+  alt="Repositories Per Language"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Student-Keval2627&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Keval2627&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 Adaptive AI Quiz System
+
+An intelligent quiz platform focused on adaptive learning and AI-based education.
+
+<br/>
+
+<a href="https://github.com/Student-Keval2627/adaptive-ai-quiz-system">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Stars](https://img.shields.io/github/stars/Student-Keval2627/adaptive-ai-quiz-system?style=flat-square)
+![Language](https://img.shields.io/github/languages/top/Student-Keval2627/adaptive-ai-quiz-system?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 Smart Attendance System
+
+A smart attendance management project designed for managing student attendance efficiently.
+
+<br/>
+
+<a href="https://github.com/Student-Keval2627/smart-attendance-system">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Stars](https://img.shields.io/github/stars/Student-Keval2627/smart-attendance-system?style=flat-square)
+![Language](https://img.shields.io/github/languages/top/Student-Keval2627/smart-attendance-system?style=flat-square)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Agriculture AI
+
+An AI-focused agriculture platform designed to explore intelligent solutions for agriculture.
+
+<br/>
+
+<a href="https://github.com/Student-Keval2627/agriculture-ai">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Stars](https://img.shields.io/github/stars/Student-Keval2627/agriculture-ai?style=flat-square)
+![Language](https://img.shields.io/github/languages/top/Student-Keval2627/agriculture-ai?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 More Projects
+
+More full-stack, AI and software development projects are coming soon.
+
+<br/>
+
+<a href="https://github.com/Student-Keval2627?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Currently Focused On
+
+```text
+Frontend Development
+React & JavaScript
+Python & Flask
+MongoDB
+Full-Stack Development
+Artificial Intelligence
+Machine Learning
+Real-World Projects
