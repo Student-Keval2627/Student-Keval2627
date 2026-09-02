@@ -1,25 +1,27 @@
+<!-- ========================================================= -->
+<!--                  KEVAL RADADIYA PROFILE                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Hi, I'm Keval Radadiya 👋
+<h1>Hi, I'm Keval Radadiya 👋</h1>
 
-### Frontend Developer • Python Developer • AI/ML Learner
+<h3>Frontend Developer • Python Developer • AI/ML Learner</h3>
 
 <p>
-I build modern web applications, work on AI-powered projects,<br/>
-and continuously improve my full-stack development skills.
+  I build modern web applications, experiment with AI-powered projects,<br/>
+  and continuously improve my full-stack development skills.
 </p>
 
-<a href="https://github.com/Student-Keval2627">
-  <img src="https://img.shields.io/badge/GitHub-Student--Keval2627-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
+<p>
+  <a href="https://github.com/Student-Keval2627">
+    <img src="https://img.shields.io/badge/GitHub-Student--Keval2627-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Student-Keval2627?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;color=1f6feb" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Student-Keval2627?affiliations=OWNER&amp;label=Total%20Stars&amp;style=for-the-badge&amp;logo=github&amp;color=d29922" alt="GitHub Stars" />
+</p>
 
-<img src="https://img.shields.io/github/followers/Student-Keval2627?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
-
-<img src="https://img.shields.io/github/stars/Student-Keval2627?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=d29922" alt="Total Stars" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Student-Keval2627&label=PROFILE%20VIEWS&color=1f6feb&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Student-Keval2627&amp;label=PROFILE%20VIEWS&amp;color=1f6feb&amp;style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -27,12 +29,14 @@ and continuously improve my full-stack development skills.
 
 ## 👨‍💻 About Me
 
-- 🌐 Building frontend and full-stack web applications
-- ⚛️ Creating interfaces with React and JavaScript
-- 🐍 Developing backend applications using Python and Flask
-- 🗄️ Working with MongoDB, MySQL, PostgreSQL, and SQLite
-- 🤖 Learning Artificial Intelligence and Machine Learning
-- 🚀 Building real-world projects to improve my skills
+I'm a developer from India focused on building practical, modern, and user-friendly software projects.
+
+- 🌐 Frontend and full-stack web development
+- ⚛️ React and JavaScript interfaces
+- 🐍 Python and Flask backend development
+- 🗄️ MongoDB, MySQL, PostgreSQL, and SQLite
+- 🤖 Artificial Intelligence and Machine Learning learner
+- 🚀 Real-world projects and continuous learning
 
 ---
 
@@ -40,7 +44,10 @@ and continuously improve my full-stack development skills.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,flask,nodejs,mongodb,mysql,postgresql,sqlite,git,github,vscode,npm,c,cpp,java&theme=dark&perline=10" alt="Tech Stack" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,flask,nodejs,c,cpp,java,php,mongodb,mysql,postgresql,sqlite,git,github,vscode,npm&amp;theme=dark&amp;perline=10"
+  alt="Technology Stack"
+/>
 
 </div>
 
@@ -51,21 +58,35 @@ and continuously improve my full-stack development skills.
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Student-Keval2627&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-Keval2627&layout=compact&theme=github_dark&hide_border=true"
-  alt="Top Languages"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Student-Keval2627&amp;theme=github_dark"
+  alt="GitHub Profile Summary"
 />
 
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Student-Keval2627&theme=github-dark-blue&hide_border=true"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Student-Keval2627&amp;theme=github_dark"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Student-Keval2627&amp;theme=github_dark"
+  alt="Repositories Per Language"
+/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Student-Keval2627&amp;theme=github-dark-blue&amp;hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -79,7 +100,7 @@ and continuously improve my full-stack development skills.
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Keval2627&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Student-Keval2627&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;hide_border=true"
   alt="GitHub Contribution Graph"
 />
 
@@ -90,69 +111,76 @@ and continuously improve my full-stack development skills.
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Adaptive AI Quiz System
-
-An adaptive-learning quiz platform with quiz results, XP, streaks, and progress tracking.
-
-**React • Flask • MongoDB**
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Adaptive AI Quiz System</h3>
+      <p>An intelligent quiz platform with adaptive learning, XP, streaks, results, and progress tracking.</p>
+      <p><strong>React • Flask • MongoDB</strong></p>
 
 <a href="https://github.com/Student-Keval2627/adaptive-ai-quiz-system">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Adaptive AI Quiz System" />
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Adaptive AI Quiz System" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/stars/Student-Keval2627/adaptive-ai-quiz-system?style=flat-square" alt="Project Stars" />
+<img src="https://img.shields.io/github/languages/top/Student-Keval2627/adaptive-ai-quiz-system?style=flat-square" alt="Top Language" />
 
 </td>
 
 <td width="50%" valign="top">
+  <h3>🎓 Smart Attendance System</h3>
+  <p>A smart attendance management project for managing and tracking student attendance efficiently.</p>
+  <p><strong>Python • Flask • SQLite</strong></p>
 
-### 🌱 Agriculture AI
+<a href="https://github.com/Student-Keval2627/smart-attendance-system">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Smart Attendance System" />
+</a>
 
-A farmer-friendly platform for crop, fertilizer, irrigation, weather, disease, and market guidance.
+<br/><br/>
 
-**Flask • MongoDB • JavaScript**
+<img src="https://img.shields.io/github/stars/Student-Keval2627/smart-attendance-system?style=flat-square" alt="Project Stars" />
+<img src="https://img.shields.io/github/languages/top/Student-Keval2627/smart-attendance-system?style=flat-square" alt="Top Language" />
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Agriculture AI</h3>
+      <p>A farmer-friendly platform for crop, fertilizer, irrigation, disease, weather, and market guidance.</p>
+      <p><strong>Flask • MongoDB • JavaScript</strong></p>
 
 <a href="https://github.com/Student-Keval2627/AgricultureAI">
-  <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&logo=github&logoColor=white" alt="Agriculture AI" />
+  <img src="https://img.shields.io/badge/View%20Project-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Agriculture AI" />
 </a>
 
-</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 CareerAI
-
-An AI-powered resume analyzer with skill detection, career suggestions, and resume scoring.
-
-**React • Flask • Python**
-
-<a href="https://github.com/Student-Keval2627/aiwork">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CareerAI" />
-</a>
+<img src="https://img.shields.io/github/stars/Student-Keval2627/AgricultureAI?style=flat-square" alt="Project Stars" />
+<img src="https://img.shields.io/github/languages/top/Student-Keval2627/AgricultureAI?style=flat-square" alt="Top Language" />
 
 </td>
 
 <td width="50%" valign="top">
-
-### 💻 More Projects
-
-Explore more frontend, Python, AI, and full-stack projects on my GitHub profile.
+  <h3>💻 More Projects</h3>
+  <p>More full-stack, AI, and software development projects are available on my GitHub profile.</p>
+  <p><strong>Build • Learn • Improve</strong></p>
 
 <a href="https://github.com/Student-Keval2627?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="All Repositories" />
 </a>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
+## 🎯 Currently Focused On
+
 <div align="center">
 
-### Keep learning. Keep building. Keep improving. 🚀
+**Frontend Development • React & JavaScript • Python & Flask • MongoDB • Full-Stack Development • Artificial Intelligence • Machine Learning**
 
 </div>
